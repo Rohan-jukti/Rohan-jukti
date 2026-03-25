@@ -1,16 +1,43 @@
-## Hi there 👋
+# Rohan Jukti
 
-<!--
-**Rohan-jukti/Rohan-jukti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Full Stack Developer with a strong focus on JavaScript and MERN Stack.  
+Currently building a solid foundation by practicing core concepts and developing projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- JavaScript (Core Concepts)
+- HTML, CSS
+- Git & GitHub
+- Problem Solving
+
+---
+
+## Projects
+
+### JavaScript Core Concepts
+A structured collection of JavaScript programs covering:
+- Basics (variables, operators, math)
+- Conditions and loops
+- Functions and arrays
+- Objects and strings
+- Advanced concepts (scoping)
+
+---
+
+## Currently Learning
+
+- Advanced JavaScript
+- DOM Manipulation
+- React (MERN Stack)
+
+---
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/rohan-jukti-448b4326b/
+
+---
+
+*Focused on consistent learning and building real-world projects.*
